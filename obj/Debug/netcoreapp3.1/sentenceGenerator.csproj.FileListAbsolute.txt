@@ -1,0 +1,13 @@
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\obj\Debug\netcoreapp3.1\sentenceGenerator.csprojAssemblyReference.cache
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\obj\Debug\netcoreapp3.1\sentenceGenerator.AssemblyInfoInputs.cache
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\obj\Debug\netcoreapp3.1\sentenceGenerator.AssemblyInfo.cs
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\obj\Debug\netcoreapp3.1\sentenceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\bin\Debug\netcoreapp3.1\sentenceGenerator.exe
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\bin\Debug\netcoreapp3.1\sentenceGenerator.deps.json
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\bin\Debug\netcoreapp3.1\sentenceGenerator.runtimeconfig.json
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\bin\Debug\netcoreapp3.1\sentenceGenerator.runtimeconfig.dev.json
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\bin\Debug\netcoreapp3.1\sentenceGenerator.dll
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\bin\Debug\netcoreapp3.1\sentenceGenerator.pdb
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\obj\Debug\netcoreapp3.1\sentenceGenerator.dll
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\obj\Debug\netcoreapp3.1\sentenceGenerator.pdb
+C:\Users\GHane\Code Projects\C#\sentenceGenerator\obj\Debug\netcoreapp3.1\sentenceGenerator.genruntimeconfig.cache
